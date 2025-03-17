@@ -3,8 +3,8 @@
 <h3 align="center">A passionate and creative web developer from India</h3>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/139Ydon4118Px-6s1sgNStiKGPPRr3aqW/view?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3616/3616929.png" alt="abhijit-karmakar-009ab026b" height="30" width="30" /></a>
-<a href="https://abhijit-karmakar.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__abhijit__" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/139Ydon4118Px-6s1sgNStiKGPPRr3aqW/view?usp=sharing" target="blank"><img align="center" src="https://github.com/Abhijit004/Abhijit004/blob/main/curriculum-resume-svgrepo-com.svg" alt="abhijit-karmakar-009ab026b" height="50" width="50" /></a>
+<a href="https://abhijit-karmakar.vercel.app/" target="blank"><img align="center" src="https://github.com/Abhijit004/Abhijit004/blob/main/person-boy-svgrepo-com.svg" alt="__abhijit__" height="50" width="50" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhijit004&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit004" /> </p>
