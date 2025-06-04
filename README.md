@@ -4,7 +4,7 @@
 🔭 **I’m currently building** cool web apps and dabbling in machine learning magic. 
 👯 **I’m looking to** team up on amazing projects that solve real problems.  
 🌱 **Learning how to** make machines _slightly_ smarter and *Backend* way stronger  
-💬 **Ask me about** React tricks, Speedcubing, or how not to `git push --force` on a deployed project at 2AM.  
+💬 **Ask me about** React tricks, Speedcubing, or how to `git push --force` on a deployed project at 2AM.  
 ⚡ **Fun fact**: I judge projects, build them, break them, and then fix them before anyone notices.
 
 
